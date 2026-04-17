@@ -56,4 +56,5 @@ La principal ventaja de esta forma de trabajo es la protección de los logs. Si 
 
 ### Referencias
 [1] W. Acosta Lugo, Guía de uso de BBDD Académicas para Ciclos Formativos, Sevilla, España: Departamento de Informática, 2026. Disponible en: https://drive.google.com/file/d/1Zg4LNDAs55OgEK1gmqbGx8NZyc1CdJjM/view?usp=sharing.
+
 [2] M. B. Alonso Alegre Díez, "Gestión de Logs," Trabajo Fin de Máster, Universidad Internacional de La Rioja (UNIR), 2016. [En línea]. Disponible en: https://reunir.unir.net/bitstream/handle/123456789/3618/ALONSO-ALEGRE%20DIEZ%2C%20MARIA%20BEGO%C3%91A.pdf 
